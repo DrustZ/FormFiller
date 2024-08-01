@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Filler & Assistant Sidebar</title>
+    <link rel="stylesheet" href="sidebar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="sidebar-container">
+        <div id="controls-container">
+            <div class="input-group">
+                <input type="text" id="fillFormsComment" placeholder="Add a comment for form filling">
+                <button id="fillForms">
+                    <span>Fill Forms</span>
+                    <i class="fas fa-spinner ml-2 hidden spin-animation"></i>
+                </button>
+            </div>
+
+            <div class="input-group">
+                <input type="text" id="uploadComment" placeholder="Add a comment for document upload">
+                <button id="uploadDocuments">
+                    <span>Upload Documents</span>
+                    <i class="fas fa-spinner ml-2 hidden spin-animation"></i>
+                </button>
+            </div>
+
+            <input type="file" id="fileInput" multiple>
+            <div id="status"></div>
+        </div>
+
+        <div id="chatContainer">
+            <div id="chatMessages"></div>
+            <div id="chatInput">
+                <input type="text" id="messageInput" placeholder="Type your message...">
+                <button id="sendMessage">Send</button>
+            </div>
+        </div>
+
+        <div id="footer">
+          Made by <a href="https://drustz.com/" target="_blank" rel="noopener noreferrer">Mingrui Zhang</a>
+        </div>
+    </div>
+
+    <script src="sidebar.js"></script>
+</body>
+</html>

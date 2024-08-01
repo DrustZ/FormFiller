@@ -1,0 +1,200 @@
+**Summary:** This is an application form for the USCIS, specifically Form I-824, used for applications for action on an approved application or petition. The user is using this document for creating a personal knowledge base for future form filling.
+
+### Page 1: 
+
+**Title and Header Information:**
+- Form Title: Application for Action on an Approved Application or Petition
+- Department of Homeland Security, U.S. Citizenship and Immigration Services
+- Form Number: I-824, OMB No. 1615-0044, Expires 12/31/2023
+
+**For USCIS Use Only:**
+- Sections for internal processing (Returned, Resubmitted, Relocated)
+- Fee Stamp, Action Block
+- Remarks including priority date, classification code, and previous visa petition information
+
+**Part 1: Information About You (Person filing this Application):**
+1. **Selection:**
+   - Applicant selected (not Petitioner)
+2. **Personal Information:**
+   - Family Name: Zhang
+   - Given Name: Mingrui
+   - Middle Name: (None provided)
+   - Company/Organization Name: Meta Platforms
+   - Current/Recent Immigration Status: F-1 OPT
+   - Certificate of Naturalization or Citizenship Number: (Not provided)
+   - Alien Registration Number (A-Number): A-141122790
+   - Date of Birth: 03/14/1995
+   - Country of Birth: China
+   - Country of Citizenship or Nationality: China
+3. **Tax and Social Security Information:**
+   - IRS Tax Number: (Not provided)
+   - U.S. Social Security Number: 678-34-6530
+   - USCIS Online Account Number: (Not provided)
+4. **Mailing Address:**
+   - In Care Of Name: Mingrui Zhang
+   - Street Number and Name: 211 W 56th St, Apt 11F
+   - City or Town: New York
+   - State: NY
+   - ZIP Code: 10019
+   - Country: United States
+
+### Page 2:
+
+**Part 1: Continued - Information About You (Physical Address):**
+  - Street Number and Name: 211 W 56th St, Apt 11F
+  - City or Town: New York
+  - State: NY
+  - ZIP Code: 10019
+  - Country: United States
+
+**Part 2: Reason for Request:**
+  - Selection: A duplicate approval notice
+  - Additional Request Options: Notify U.S. Consulate or NVC regarding adjustment to permanent resident status.
+
+**Part 3: Other Information (Principal Beneficiary Details):**
+  - Form Number of Previously Approved Application or Petition: I-612
+  - Receipt Number: EAC-23-243-50724
+  - Filing Date: 03/30/2023
+  - Approval Date: 06/15/2023
+  - Principal Beneficiary’s Personal Information:
+    - Family Name: Zhang
+    - Given Name: Mingrui
+    - Middle Name: (None provided)
+    - Date of Birth: 03/14/1995
+    - Country of Birth: China
+    - Alien Registration Number (A-Number): A-141122790
+    - Daytime Telephone Number: 2067514030
+
+**Mailing Address:**
+   - In Care Of Name: Mingrui Zhang
+   - Street Number and Name: 211 W 56th St, Apt 11F
+   - City or Town: New York
+   - State: NY
+   - ZIP Code: 10019
+   - Country: United States
+
+### Page 3:
+
+**Part 3: Continued - Physical Address:**
+  - Repeated as page 2
+
+**Dependents Information (For follow-to-join benefits):**
+  - Sections for the dependents' information including:
+    - Family Name
+    - Given Name
+    - Middle Name
+    - Date of Birth
+    - Country of Birth
+    - Country of Citizenship or Nationality
+    - Relationship to Principal Applicant
+    - Dependent's Email Address
+    - Dependent's Daytime Telephone Number
+
+  - (Note: These sections are currently blank and to be filled as necessary.)
+
+---
+
+This description includes key personal details, mailing, physical addresses, and sections relevant for filling the form correctly.
+
+**Summary**: The document is an application form for USCIS (United States Citizenship and Immigration Services). It includes sections for detailed information about the applicant, any dependents, interpreter information, as well as contact information, declaration, and signatures for all involved parties.
+
+### Page 4 Summary
+
+**Part 3. Other Information (continued):**
+
+1. **Dependent's Information:**
+   - Fields for Family Name, Given Name, Middle Name, Date of Birth, Country of Birth, and Country of Citizenship or Nationality.
+   - Relationship to Principal Applicant.
+   - Dependent’s Email Address and Daytime Telephone Number.
+
+2. **Foreign Address of Dependents:**
+   - In Care Of Name, Street Number and Name, Apt/Ste/Flr, City or Town, Province, Postal Code, and Country.
+
+3. **Contact Information of Dependents:**
+   - Foreign Telephone Number.
+
+**Part 4. Applicant's Statement, Contact Information, Declaration, Certification, and Signature:**
+
+1. **Applicant's Statement:**
+   - Checkbox to indicate if the applicant can read and understand English or has used an interpreter.
+   - Checkbox for preparer assistance.
+
+2. **Applicant's Contact Information:**
+   - Daytime Telephone Number.
+   - Mobile Telephone Number.
+   - Email Address.
+
+3. **Applicant's Declaration and Certification:**
+   - Applicant authorizes the release of their information to USCIS.
+   - Certification of the correctness of the information provided under penalty of perjury.
+
+### Page 5 Summary
+
+**Part 4. Applicant's Statement, Contact Information, Declaration, Certification, and Signature (continued):**
+
+1. **Applicant's Signature:**
+   - Fields for signature and date of signature.
+
+**Part 5. Interpreter’s Contact Information, Certification, and Signature:**
+
+1. **Interpreter's Full Name:**
+   - Fields for Family Name and Given Name.
+   - Business or Organization Name (if any).
+
+2. **Interpreter's Mailing Address:**
+   - Street Number and Name, Apt/Ste/Flr, City or Town, State, ZIP Code, Province, Postal Code, and Country.
+
+3. **Interpreter’s Contact Information:**
+   - Daytime Telephone Number, Mobile Telephone Number, and Email Address.
+
+4. **Interpreter’s Certification:**
+   - Certification of fluency in English and the applicant’s language.
+   - Interpreter’s signature and date of signature.
+
+### Page 6 Summary
+
+**Part 6. Contact Information, Declaration, and Signature of the Person Preparing this Application, if Other Than the Applicant:**
+
+1. **Preparer’s Full Name:**
+   - Fields for Family Name, Given Name, and Business or Organization Name (if any).
+
+2. **Preparer’s Mailing Address:**
+   - Street Number and Name, Apt/Ste/Flr, City or Town, State, ZIP Code, Province, Postal Code, and Country.
+
+3. **Preparer’s Contact Information:**
+   - Daytime Telephone Number, Mobile Telephone Number (if any), and Email Address.
+
+4. **Preparer's Certification:**
+   - The preparer certifies that they completed the application at the request of the applicant and based on information provided by the applicant.
+   - Signature and date of signature.
+
+5. **Preparer's Statement:**
+   - Checkbox to indicate whether the preparer is an attorney or accredited representative or not. If they are, additional forms might be required.
+
+
+**Summary:** This is the final page (Page 7 of 7) of Form I-824, specifically designated for "Additional Information" that applicants may need to provide beyond what is covered in other parts of the application.
+
+Here are the key elements of the page:
+
+1. **Header:**
+   - Title: "Part 7. Additional Information"
+   - Instruction: This section lets applicants provide additional information if they run out of space in other sections. Applicants can make copies of this page if more space is needed. They must type or print their name and A-Number (if any) at the top of each sheet. Additionally, applicants must indicate the Page Number, Part Number, and Item Number that their additional information refers to, then sign and date each sheet.
+
+2. **Identification Fields:**
+   - 1.a. Family Name (Last Name)
+   - 1.b. Given Name (First Name)
+   - 1.c. Middle Name
+   - 2. A-Number (if any)
+
+3. **Repeating Structured Sections:**
+   - Each section consists of fields for Page Number, Part Number, Item Number, and additional space (lines) for detailed information. There are seven such structured sections on this page:
+     - 3. a-d (First set)
+     - 4. a-d (Second set)
+     - 5. a-d (Third set)
+     - 6. a-d (Fourth set)
+     - 7. a-d (Fifth set)
+
+4. **Footer:**
+   - Indication of the form type and its edition date: "Form I-824 Edition 12/02/21".
+
+This page is specifically designed to ensure that all relevant additional information can be clearly indexed and easily referred to throughout the application process.
