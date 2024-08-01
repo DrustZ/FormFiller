@@ -1,7 +1,8 @@
 
 # 🚀 FormFiller: AI-Powered Form Filler & Knowledge Wizard 🧙‍♂️
 
-Ever dreamed of a personal assistant that remembers everything and fills out your forms in a snap? Well, dream no more! Welcome to the AI-Powered Form Filler and Knowledge Wizard – your new best friend in the digital world! 🎉
+(the whole readme is written by Claude, so don't mind the dramatic language here 😅)
+Ever dreamed of a personal assistant that remembers everything and fills out your forms in a snap? Well, dream no more! Welcome to the AI-Powered Form Filler and Knowledge Wizard – your new best friend in the digital world! 
 
 ## ✨ What's This Sorcery?
 
@@ -23,11 +24,7 @@ Sounds like science fiction? Nope, it's just our AI wizard at work! 🧙‍♂�
 
 ### 🪄 Casting the Setup Spell
 
-1. Summon the code:
-   ```
-   git clone https://github.com/your-username/ai-form-filler.git
-   cd ai-form-filler
-   ```
+1. Summon the code with `git clone`
 
 2. Conjure the Python dependencies:
    ```
@@ -39,11 +36,10 @@ Sounds like science fiction? Nope, it's just our AI wizard at work! 🧙‍♂�
    OPENAI_API_KEY=your_super_secret_key_here
    ```
 
-4. Prepare the Chrome extension elixir:
-   ```
-   cd chrome-extension
-   npm install
-   ```
+4. Prepare the Chrome/Edge extension elixir:
+   - Follow instructions here https://learn.microsoft.com/en-us/deployedge/microsoft-edge-manage-extensions-webstore
+   - You want to enable developer mode, go to the extensions and install from unpacked source
+   - When using plugin, you need to start the `tornado-server.py`
 
 ## 🧠 Unleashing the Knowledge Kraken
 
