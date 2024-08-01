@@ -1,5 +1,5 @@
 
-# 🚀 FormFiller: AI-Powered Form Filler & Knowledge Wizard 🧙‍♂️
+# 🚀 FormFiller: Automatica Form Filling with Personal Knowledge Base 🧙‍♂️
 
 (the whole readme is written by Claude, so don't mind the dramatic language here 😅)
 Ever dreamed of a personal assistant that remembers everything and fills out your forms in a snap? Well, dream no more! Welcome to the AI-Powered Form Filler and Knowledge Wizard – your new best friend in the digital world! 
