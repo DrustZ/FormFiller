@@ -1,200 +1,152 @@
-**Summary:** This is an application form for the USCIS, specifically Form I-824, used for applications for action on an approved application or petition. The user is using this document for creating a personal knowledge base for future form filling.
+**Summary:** The document is a CV of Mingrui Zhang, detailing educational background, research interests, published papers, other publications, book chapters, honors and awards, and professional experience. 
 
-### Page 1: 
+### EDUCATION
+- **University of Washington, Seattle** (Sep. 2017 - June 2022 (expected))
+  - Ph.D. in Information Science, The Information School
+  - Focus: Human-Computer Interaction
+  - Advisor: Jacob O. Wobbrock
 
-**Title and Header Information:**
-- Form Title: Application for Action on an Approved Application or Petition
-- Department of Homeland Security, U.S. Citizenship and Immigration Services
-- Form Number: I-824, OMB No. 1615-0044, Expires 12/31/2023
+- **Tsinghua University, Beijing** (Aug. 2013 - Jul. 2017)
+  - B.Eng. with Honors, Department of Computer Science and Technology
+  - Minor in Journalism
 
-**For USCIS Use Only:**
-- Sections for internal processing (Returned, Resubmitted, Relocated)
-- Fee Stamp, Action Block
-- Remarks including priority date, classification code, and previous visa petition information
+- **Massachusetts Institute of Technology, Boston** (Jun. 2016 - Sep. 2016)
+  - Visiting Student, the Fluid Interfaces Group, MIT Media Lab
+  - Advisor: Pattie Maes
 
-**Part 1: Information About You (Person filing this Application):**
-1. **Selection:**
-   - Applicant selected (not Petitioner)
-2. **Personal Information:**
-   - Family Name: Zhang
-   - Given Name: Mingrui
-   - Middle Name: (None provided)
-   - Company/Organization Name: Meta Platforms
-   - Current/Recent Immigration Status: F-1 OPT
-   - Certificate of Naturalization or Citizenship Number: (Not provided)
-   - Alien Registration Number (A-Number): A-141122790
-   - Date of Birth: 03/14/1995
-   - Country of Birth: China
-   - Country of Citizenship or Nationality: China
-3. **Tax and Social Security Information:**
-   - IRS Tax Number: (Not provided)
-   - U.S. Social Security Number: 678-34-6530
-   - USCIS Online Account Number: (Not provided)
-4. **Mailing Address:**
-   - In Care Of Name: Mingrui Zhang
-   - Street Number and Name: 211 W 56th St, Apt 11F
-   - City or Town: New York
-   - State: NY
-   - ZIP Code: 10019
-   - Country: United States
+- **The Chinese University of Hong Kong, Hong Kong** (Sep. 2015 - Dec. 2015)
+  - Exchange Student, Department of Computer Science and Engineering
 
-### Page 2:
+### RESEARCH INTEREST
+- **Human-Computer Interaction**
+  - Focuses on AI-mediated interactions to facilitate input and understanding of information, and creating equal information access for people with disabilities.
 
-**Part 1: Continued - Information About You (Physical Address):**
-  - Street Number and Name: 211 W 56th St, Apt 11F
-  - City or Town: New York
-  - State: NY
-  - ZIP Code: 10019
-  - Country: United States
+### PEER-REVIEWED CONFERENCE PAPERS
+1. **C.18**: "TypeAnywhere: A QWERTY-Based Text Entry Solution for Ubiquitous Computing."
+2. **C.17**: "Monitoring Screen Time or Redesigning It? Two Approaches to Supporting Intentional Social Media Use."
+3. **C.16**: "I Don’t Even Remember What I Read”: How Design Influences Dissociation on Social Media."
+4. **C.15**: "Gaily: an Automated GIF Annotation System for Visually Impaired Users."
+5. **C.14**: "Can Conversational Agents Change the Way Children Talk to People?"
+6. **C.13**: "Revamp: Enhancing Accessible Information Seeking Experience of Online Shopping for Blind or Low Vision Users."
+7. **C.12**: "Voicemoj: Emoji entry using voice for visually impaired people."
+8. **C.11**: "PhraseFlow: Designs and Empirical Studies of Phrase-Level Input."
+9. **C.10**: "A comparative study of lexical and semantic emoji suggestion systems."
+10. **C.9**: "JustCorrect: Intelligent post hoc text correction techniques on smartphones."
+11. **C.8**: "Interactive Attention Model Explorer for NLP Tasks with Unbalanced Data Sizes."
+12. **C.7**: "Gedit: Keyboard gestures for mobile text editing."
+13. **C.6**: "Assumptions Checked: How Families Learn About and Use the Echo Dot."
+14. **C.5**: "Type, Then Correct: Intelligent Text Correction Techniques for Mobile Text Entry Using Neural Networks."
+15. **C.4**: "Beyond the Input Stream: Making Text Entry Evaluations More Flexible with Transcription Sequences."
+16. **C.3**: "Text entry throughput: Towards unifying speed and accuracy in a single performance metric."
+17. **C.2**: "Anchored Audio Sampling: A Seamless Method for Exploring Childrens Thoughts and Reactions During Deployment Studies."
+18. **C.1**: "Communication Breakdowns Between Families and Alexa."
+19. **C.0**: "ATK: Enabling Ten-Finger Freehand Typing in Air Based on 3D Hand Tracking Data."
 
-**Part 2: Reason for Request:**
-  - Selection: A duplicate approval notice
-  - Additional Request Options: Notify U.S. Consulate or NVC regarding adjustment to permanent resident status.
+### OTHER PUBLICATIONS
+- P.2: "Understanding the Digital News Consumption Experience During the COVID Pandemic."
+- P.1: "Partial-Candidate Commit for Chinese Pinyin Text Entry."
+- P.0: "Two-handed Typing Method on an Arbitrary Surface."
 
-**Part 3: Other Information (Principal Beneficiary Details):**
-  - Form Number of Previously Approved Application or Petition: I-612
-  - Receipt Number: EAC-23-243-50724
-  - Filing Date: 03/30/2023
-  - Approval Date: 06/15/2023
-  - Principal Beneficiary’s Personal Information:
-    - Family Name: Zhang
-    - Given Name: Mingrui
-    - Middle Name: (None provided)
-    - Date of Birth: 03/14/1995
-    - Country of Birth: China
-    - Alien Registration Number (A-Number): A-141122790
-    - Daytime Telephone Number: 2067514030
+### BOOK CHAPTERS
+- B.1: "AI-driven Intelligent Text Correction Techniques for Mobile Text Entry."
+- B.0: "When Rocket Launches."
 
-**Mailing Address:**
-   - In Care Of Name: Mingrui Zhang
-   - Street Number and Name: 211 W 56th St, Apt 11F
-   - City or Town: New York
-   - State: NY
-   - ZIP Code: 10019
-   - Country: United States
+### HONORS & AWARDS
+- **Ford Fellowship, University of Washington** (2022)
+- **Special Recognition, CHI paper reviews** (2021)
+- **Best Paper Award, ACM CHI** (2019)
+- **Excellent Graduate of the CST Department, Tsinghua** (2017)
+- **The National Scholarship of China (Top 1%)** (2016)
+- **1st Winner of the National Database Conference Cup** (2016)
 
-### Page 3:
+### PROFESSIONAL EXPERIENCE
+- **ACE Lab, University of Washington** (Oct. 2017 - Present)
+  - Research Assistant
+  - AI-Mediated information interaction techniques.
 
-**Part 3: Continued - Physical Address:**
-  - Repeated as page 2
+- **User Empowerment Lab, University of Washington** (Jun. 2018 - Present)
+  - Research Assistant
+  - Mobile applications for virtual assistants with kids and families, digital news consumption, and social media patterns.
 
-**Dependents Information (For follow-to-join benefits):**
-  - Sections for the dependents' information including:
-    - Family Name
-    - Given Name
-    - Middle Name
-    - Date of Birth
-    - Country of Birth
-    - Country of Citizenship or Nationality
-    - Relationship to Principal Applicant
-    - Dependent's Email Address
-    - Dependent's Daytime Telephone Number
+- **Apple Inc., Seattle, WA** (Jun. 2021 - Sep. 2021)
+  - Research Intern
+  - Prototyping and behavior modeling on novel input experience.
 
-  - (Note: These sections are currently blank and to be filled as necessary.)
+Summary: The provided document is a CV containing detailed information on the user's professional experience, teaching roles, student mentorships, invited talks, and professional services. It highlights roles and projects undertaken, duration, and institutions or companies involved.
 
----
+**Professional Experience:**
+1. **Facebook Reality Labs, New York, NY (Jun. 2020 - Oct. 2020)**
+   - Position: Research Intern
+   - Advisor: Adam Bernevig
+   - Key Tasks: 
+     - Designed and implemented multiple prototypes for EMG-based text entry interaction.
+     - Improved neural network model performance for gesture classification.
 
-This description includes key personal details, mailing, physical addresses, and sections relevant for filling the form correctly.
+2. **Google Inc., Mountain View, CA (Oct. 2019 - Dec. 2019)**
+   - Position: Research Intern
+   - Advisor: Shumin Zhai
+   - Key Tasks: 
+     - Modification and exploration of auto-correction features for Google Gboard.
 
-**Summary**: The document is an application form for USCIS (United States Citizenship and Immigration Services). It includes sections for detailed information about the applicant, any dependents, interpreter information, as well as contact information, declaration, and signatures for all involved parties.
+3. **Momenta.ai Inc., Beijing (Dec. 2016 - Jun. 2017)**
+   - Position: Research Intern
+   - Advisor: Ji Liang
+   - Key Tasks:
+     - Modified Full Convolutional Network base model for freescape road segmentation.
+     - Boosted recall and accuracy by approximately 5%.
 
-### Page 4 Summary
+4. **Fluid Interfaces Group, MIT Media Lab (Jun. 2016 - Sep. 2016)**
+   - Position: Visiting Student
+   - Key Tasks: 
+     - Developed hardware and algorithm for project Fluxa.
+     - Led the Shoulder Muscle-Computer Interface project using Myo armband.
 
-**Part 3. Other Information (continued):**
+5. **MailTime Inc., Beijing (Feb. 2016 - Jun. 2016)**
+   - Position: iOS Intern
+   - Key Tasks:
+     - Redesigned interaction logic and UI, increased user retention by 25%.
 
-1. **Dependent's Information:**
-   - Fields for Family Name, Given Name, Middle Name, Date of Birth, Country of Birth, and Country of Citizenship or Nationality.
-   - Relationship to Principal Applicant.
-   - Dependent’s Email Address and Daytime Telephone Number.
+6. **Multimedia Lab, Chinese University of Hong Kong (Jun. 2015 - Aug. 2015)**
+   - Position: Research Assistant
+   - Key Tasks: 
+     - Wrote experimental codes on machine learning.
+     - Worked on CXNNET framework.
 
-2. **Foreign Address of Dependents:**
-   - In Care Of Name, Street Number and Name, Apt/Ste/Flr, City or Town, Province, Postal Code, and Country.
+7. **Chestnut Tech Inc., Beijing (Oct. 2014 - Jan. 2016)**
+   - Position: Co-founder, iOS Developer
+   - Key Tasks:
+     - Main developer for Parocam application.
+     - Developed face transform algorithm, UI design, and product operation.
 
-3. **Contact Information of Dependents:**
-   - Foreign Telephone Number.
+**Teaching:**
+- Teaching Assistant roles at UW Seattle for courses including:
+  - INFO 201 Foundational Skills for Data Science (2021 Fall)
+  - INFO 490 Undergraduate Capstone (2020 Winter, 2020 Spring)
+  - INFO 449 iOS Programming (2019 Winter)
+  - INFO 360 Design Thinking (2017 Fall, 2018 Winter)
+  - INFO 498 Rapid Prototyping (2018 Spring)
 
-**Part 4. Applicant's Statement, Contact Information, Declaration, Certification, and Signature:**
+- Guest Lecturer for INFO 463 Input and Interaction at UW Seattle (2020 Fall)
 
-1. **Applicant's Statement:**
-   - Checkbox to indicate if the applicant can read and understand English or has used an interpreter.
-   - Checkbox for preparer assistance.
+**Students Mentored:**
+- Jiahao Tim Li (UW Undergraduate) (Oct. 2021 - Nov. 2021)
+- Raveena Rao (UW Undergraduate) (Feb. 2021 - Jun. 2021)
+- Sara Behbakht (UW Undergraduate) (Apr. 2020 - Jun. 2020)
+- Ashley Boone (UW Undergraduate, now a PhD student at Georgia Tech) (Feb. 2021 - Jun. 2020)
+- Jacob Burke (UW Undergraduate, now at Microsoft) (June. 2018 - Sep. 2018)
 
-2. **Applicant's Contact Information:**
-   - Daytime Telephone Number.
-   - Mobile Telephone Number.
-   - Email Address.
+**Invited Talks:**
+- 2021: University of Washington, Intelligent Text Input Methods and Metrics, Seattle, WA, USA
+- 2019: HCI Seminar, Stanford University, Text Entry for the New Era, Palo Alto, CA, USA
+- 2019: Google Android UX Group, Text Entry for the New Era, Mountain View, CA, USA
 
-3. **Applicant's Declaration and Certification:**
-   - Applicant authorizes the release of their information to USCIS.
-   - Certification of the correctness of the information provided under penalty of perjury.
-
-### Page 5 Summary
-
-**Part 4. Applicant's Statement, Contact Information, Declaration, Certification, and Signature (continued):**
-
-1. **Applicant's Signature:**
-   - Fields for signature and date of signature.
-
-**Part 5. Interpreter’s Contact Information, Certification, and Signature:**
-
-1. **Interpreter's Full Name:**
-   - Fields for Family Name and Given Name.
-   - Business or Organization Name (if any).
-
-2. **Interpreter's Mailing Address:**
-   - Street Number and Name, Apt/Ste/Flr, City or Town, State, ZIP Code, Province, Postal Code, and Country.
-
-3. **Interpreter’s Contact Information:**
-   - Daytime Telephone Number, Mobile Telephone Number, and Email Address.
-
-4. **Interpreter’s Certification:**
-   - Certification of fluency in English and the applicant’s language.
-   - Interpreter’s signature and date of signature.
-
-### Page 6 Summary
-
-**Part 6. Contact Information, Declaration, and Signature of the Person Preparing this Application, if Other Than the Applicant:**
-
-1. **Preparer’s Full Name:**
-   - Fields for Family Name, Given Name, and Business or Organization Name (if any).
-
-2. **Preparer’s Mailing Address:**
-   - Street Number and Name, Apt/Ste/Flr, City or Town, State, ZIP Code, Province, Postal Code, and Country.
-
-3. **Preparer’s Contact Information:**
-   - Daytime Telephone Number, Mobile Telephone Number (if any), and Email Address.
-
-4. **Preparer's Certification:**
-   - The preparer certifies that they completed the application at the request of the applicant and based on information provided by the applicant.
-   - Signature and date of signature.
-
-5. **Preparer's Statement:**
-   - Checkbox to indicate whether the preparer is an attorney or accredited representative or not. If they are, additional forms might be required.
-
-
-**Summary:** This is the final page (Page 7 of 7) of Form I-824, specifically designated for "Additional Information" that applicants may need to provide beyond what is covered in other parts of the application.
-
-Here are the key elements of the page:
-
-1. **Header:**
-   - Title: "Part 7. Additional Information"
-   - Instruction: This section lets applicants provide additional information if they run out of space in other sections. Applicants can make copies of this page if more space is needed. They must type or print their name and A-Number (if any) at the top of each sheet. Additionally, applicants must indicate the Page Number, Part Number, and Item Number that their additional information refers to, then sign and date each sheet.
-
-2. **Identification Fields:**
-   - 1.a. Family Name (Last Name)
-   - 1.b. Given Name (First Name)
-   - 1.c. Middle Name
-   - 2. A-Number (if any)
-
-3. **Repeating Structured Sections:**
-   - Each section consists of fields for Page Number, Part Number, Item Number, and additional space (lines) for detailed information. There are seven such structured sections on this page:
-     - 3. a-d (First set)
-     - 4. a-d (Second set)
-     - 5. a-d (Third set)
-     - 6. a-d (Fourth set)
-     - 7. a-d (Fifth set)
-
-4. **Footer:**
-   - Indication of the form type and its edition date: "Form I-824 Edition 12/02/21".
-
-This page is specifically designed to ensure that all relevant additional information can be clearly indexed and easily referred to throughout the application process.
+**Professional Service:**
+- UW DUB Seminar Coordinator (2021)
+- Assistant for early planning at CHI '20
+- Peer Reviewer for:
+  - CHI '19-'22
+  - UIST '19-'22
+  - MobileHCI '21
+  - AutomobileUI '21
+  - IEEE EICS '21
+  - THMS '20

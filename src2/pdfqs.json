@@ -1,1 +1,178 @@
-{"questions": [{"field_name": "Student Name (Surname/Primary Name, Given Name)", "question": "What is your full name?"}, {"field_name": "Student Email Address", "question": "What is your email address?"}, {"field_name": "Name of School Recommending STEM OPT", "question": "What is the name of the school recommending your STEM OPT?"}, {"field_name": "Name of School Where STEM Degree Was Earned", "question": "What is the name of the school where you earned your STEM degree?"}, {"field_name": "SEVIS School Code of School Recommending STEM OPT (including 3-digit suffix)", "question": "What is the SEVIS school code of the school recommending your STEM OPT (include the 3-digit suffix)?"}, {"field_name": "Designated School Official (DSO) Name and Contact Information", "question": "What is the name and contact information of the Designated School Official (DSO)?"}, {"field_name": "Student SEVIS ID No.", "question": "What is your Student SEVIS ID number?"}, {"field_name": "STEM OPT Requested Period (mm-dd-yyyy): From", "question": "What is the start date of your requested STEM OPT period (mm-dd-yyyy)?"}, {"field_name": "STEM OPT Requested Period (mm-dd-yyyy): To", "question": "What is the end date of your requested STEM OPT period (mm-dd-yyyy)?"}, {"field_name": "Qualifying Major and Classification of Instructional Programs (CIP) Code", "question": "What is your qualifying major and its Classification of Instructional Programs (CIP) code?"}, {"field_name": "Level/Type of Qualifying Degree", "question": "What is the level or type of your qualifying degree?"}, {"field_name": "Date Awarded (mm-dd-yyyy)", "question": "What is the date your qualifying degree was awarded (mm-dd-yyyy)?"}, {"field_name": "Based on Prior Degree? [Yes/No]", "question": "Is this based on a prior degree?"}, {"field_name": "Employment Authorization Number", "question": "What is your employment authorization number?"}, {"field_name": "Employer Name", "question": "What is the name of your employer?"}, {"field_name": "Street Address", "question": "What is the street address of your employer?"}, {"field_name": "Suite", "question": "What is the suite number of your employer's address?"}, {"field_name": "Employer Website URL", "question": "What is the employer's website URL?"}, {"field_name": "City", "question": "In which city is your employer located?"}, {"field_name": "State", "question": "In which state is your employer located?"}, {"field_name": "ZIP Code", "question": "What is the ZIP code of your employer?"}, {"field_name": "Employer ID Number (EIN)", "question": "What is the Employer ID Number (EIN)?"}, {"field_name": "Number of Full-Time Employees in U.S.", "question": "How many full-time employees are there in the U.S. for your employer?"}, {"field_name": "North American Industry Classification System (NAICS) Code", "question": "What is the North American Industry Classification System (NAICS) code for your employer?"}, {"field_name": "OPT Hours Per Week (must be at least 20 hours/week)", "question": "How many hours per week do you plan to work in your OPT (must be at least 20 hours/week)?"}, {"field_name": "Compensation: A. Salary Amount and Frequency", "question": "What is your salary amount and frequency?"}, {"field_name": "Compensation: B. Other Compensation (Type and Estimated Amount or Value)", "question": "List other types of compensation you receive, if any, and their estimated amount or value."}, {"field_name": "Start Date of Employment (mm-dd-yyyy)", "question": "What is the start date of your employment (mm-dd-yyyy)?"}, {"field_name": "Student Name (Surname/Primary Name, Given Name)", "question": "What is your full name?"}, {"field_name": "Employer Name", "question": "What is the name of your employer?"}, {"field_name": "Site Name", "question": "What is the name of the site where you will be working?"}, {"field_name": "Site Address (Street, City, State, ZIP)", "question": "What is the address of the site where you will be working (Street, City, State, ZIP)?"}, {"field_name": "Name of Official", "question": "What is the name of the official at the site?"}, {"field_name": "Official's Title", "question": "What is the title of the official at the site?"}, {"field_name": "Official's Email", "question": "What is the email address of the official at the site?"}, {"field_name": "Official's Phone Number", "question": "What is the phone number of the official at the site?"}, {"field_name": "Student Role", "question": "Describe your role with the employer and how it is directly related to enhancing the knowledge you obtained through your qualifying STEM degree."}, {"field_name": "Goals and Objectives", "question": "Describe how the assignments with the employer will help you achieve objectives for work-based learning related to your STEM degree. Specify your goals regarding specific knowledge, skills, or techniques as well as the means by which they will be achieved."}, {"field_name": "Employer Oversight", "question": "Explain how the employer provides oversight and supervision of individuals filling positions such as the one being filled by you. If the employer has a training program or related policy in place that controls such oversight and supervision, please describe it."}, {"field_name": "Measures and Assessments", "question": "Explain how the employer measures and confirms whether individuals filling positions such as the one being filled by you are acquiring new knowledge and skills. If the employer has a training program or related policy in place that controls such measures and assessments, please describe it."}, {"field_name": "additional_remarks", "question": "Provide any additional information pertinent to the plan."}, {"field_name": "signature_employer_official", "question": "Signature of Employer Official with Signatory Authority:"}, {"field_name": "printed_name_title_employer_official", "question": "What is the printed name and title of the Employer Official with Signatory Authority?"}, {"field_name": "evaluation_dates_start", "question": "What is the start date of the evaluation period for the student's self-evaluation?"}, {"field_name": "evaluation_dates_end", "question": "What is the end date of the evaluation period for the student's self-evaluation?"}, {"field_name": "signature_student", "question": "Signature of the student:"}, {"field_name": "printed_name_student", "question": "What is the printed name of the student?"}, {"field_name": "date_signature_student", "question": "What is the date of the student's signature?"}, {"field_name": "signature_employer_official_progress", "question": "Signature of Employer Official with Signatory Authority for progress evaluation:"}, {"field_name": "printed_name_employer_official_progress", "question": "What is the printed name of the Employer Official with Signatory Authority for progress evaluation?"}, {"field_name": "date_employer_official_progress", "question": "What is the date of the Employer Official's signature for progress evaluation?"}, {"field_name": "final_evaluation_dates_start", "question": "What is the start date of the evaluation period for the final evaluation of the student?"}, {"field_name": "final_evaluation_dates_end", "question": "What is the end date of the evaluation period for the final evaluation of the student?"}, {"field_name": "signature_student_final", "question": "Signature of the student for the final evaluation:"}, {"field_name": "printed_name_student_final", "question": "What is the printed name of the student for the final evaluation?"}, {"field_name": "date_signature_student_final", "question": "What is the date of the student's signature for the final evaluation?"}, {"field_name": "signature_employer_official_final", "question": "Signature of Employer Official with Signatory Authority for the final evaluation:"}, {"field_name": "printed_name_employer_official_final", "question": "What is the printed name of the Employer Official with Signatory Authority for the final evaluation?"}, {"field_name": "date_employer_official_final", "question": "What is the date of the Employer Official's signature for the final evaluation?"}]}
+{
+  "questions": [
+    { "field_name": "Student Name", "question": "What is your full name?" },
+    {
+      "field_name": "Student Email Address",
+      "question": "What is your email address?"
+    },
+    {
+      "field_name": "Name of School Recommending STEM OPT",
+      "question": "What is the name of the school recommending your STEM OPT?"
+    },
+    {
+      "field_name": "Name of School Where STEM Degree Was Earned",
+      "question": "What is the name of the school where you earned your STEM degree?"
+    },
+    {
+      "field_name": "SEVIS School Code of School Recommending STEM OPT",
+      "question": "What is the SEVIS school code (including 3-digit suffix) of the school recommending your STEM OPT?"
+    },
+    {
+      "field_name": "Designated School Official (DSO) Name and Contact Information",
+      "question": "What are the name and contact information of your Designated School Official (DSO)?"
+    },
+    {
+      "field_name": "STEM OPT Requested Period",
+      "question": "What is the requested period for your STEM OPT (From date to To date in mm-dd-yyyy format)?"
+    },
+    {
+      "field_name": "Qualifying Major and Classification of Instructional Programs (CIP) Code",
+      "question": "What is your qualifying major and the Classification of Instructional Programs (CIP) code?"
+    },
+    {
+      "field_name": "Level/Type of Qualifying Degree",
+      "question": "What is the level/type of your qualifying degree?"
+    },
+    {
+      "field_name": "Date Awarded",
+      "question": "What is the date your degree was awarded (in mm-dd-yyyy format)?"
+    },
+    {
+      "field_name": "Based on Prior Degree?",
+      "question": "Is your STEM OPT based on a prior degree (Yes or No)?"
+    },
+    {
+      "field_name": "Employment Authorization Number",
+      "question": "What is your Employment Authorization Number?"
+    },
+    {
+      "field_name": "Employer Name",
+      "question": "What is your employer's name?"
+    },
+    {
+      "field_name": "Street Address",
+      "question": "What is your employer's street address?"
+    },
+    {
+      "field_name": "Employer Website URL",
+      "question": "What is your employer's website URL?"
+    },
+    {
+      "field_name": "City",
+      "question": "In which city is your employer located?"
+    },
+    {
+      "field_name": "State",
+      "question": "In which state is your employer located?"
+    },
+    {
+      "field_name": "ZIP Code",
+      "question": "What is your employer's ZIP Code?"
+    },
+    {
+      "field_name": "Employer ID Number (EIN)",
+      "question": "What is your employer's ID number (EIN)?"
+    },
+    {
+      "field_name": "Number of Full-Time Employees in U.S.",
+      "question": "How many full-time employees does your employer have in the U.S.?"
+    },
+    {
+      "field_name": "North American Industry Classification System (NAICS) Code",
+      "question": "What is your employer's North American Industry Classification System (NAICS) code?"
+    },
+    {
+      "field_name": "OPT Hours Per Week",
+      "question": "How many OPT hours per week are you scheduled to work (must be at least 20 hours/week)?"
+    },
+    {
+      "field_name": "Employer Name (Employer Site Information)",
+      "question": "What is your employer's name?"
+    },
+    { "field_name": "Site Name", "question": "What is the site name?" },
+    {
+      "field_name": "Site Address",
+      "question": "What is the site address (Street, City, State, ZIP)?"
+    },
+    {
+      "field_name": "Student Role",
+      "question": "Describe your role with the employer and how that role is directly related to enhancing your knowledge obtained through your qualifying STEM degree."
+    },
+    {
+      "field_name": "Goals and Objectives",
+      "question": "Describe the assignment(s) your employer has given you that will help you achieve your specific objectives for work-based learning related to your STEM degree. Include your specific goals regarding knowledge, skills, or techniques, and how you will achieve them."
+    },
+    {
+      "field_name": "Employer Oversight",
+      "question": "Explain how your employer provides oversight and supervision of individuals filling positions such as the one you are filling. If a training program or related policy is in place that controls oversight and supervision, please describe."
+    },
+    {
+      "field_name": "Measures and Assessments",
+      "question": "Explain how your employer measures and confirms whether individuals filling positions at their organization are acquiring new knowledge and skills. If there is a training program or related policy detailing such measures and assessments, please describe."
+    },
+    {
+      "field_name": "Evaluation_Student_Progress_From_Date",
+      "question": "What is the start date for the evaluation period?"
+    },
+    {
+      "field_name": "Evaluation_Student_Progress_To_Date",
+      "question": "What is the end date for the evaluation period?"
+    },
+    {
+      "field_name": "Evaluation_Student_Signature",
+      "question": "Please provide your signature for the self-evaluation."
+    },
+    {
+      "field_name": "Evaluation_Student_Printed_Name",
+      "question": "What is your printed name?"
+    },
+    {
+      "field_name": "Evaluation_Student_Date",
+      "question": "What is the date of your signature?"
+    },
+    {
+      "field_name": "Evaluation_Employer_Signature",
+      "question": "Please provide the signature of the employer official with signatory authority."
+    },
+    {
+      "field_name": "Evaluation_Employer_Printed_Name",
+      "question": "What is the printed name of the employer official with signatory authority?"
+    },
+    {
+      "field_name": "Evaluation_Employer_Date",
+      "question": "What is the date of the employer's signature?"
+    },
+    {
+      "field_name": "Final_Evaluation_Student_Progress_From_Date",
+      "question": "What is the start date for the final evaluation period?"
+    },
+    {
+      "field_name": "Final_Evaluation_Student_Progress_To_Date",
+      "question": "What is the end date for the final evaluation period?"
+    },
+    {
+      "field_name": "Final_Evaluation_Student_Signature",
+      "question": "Please provide your signature for the final self-evaluation."
+    },
+    {
+      "field_name": "Final_Evaluation_Student_Printed_Name",
+      "question": "What is your printed name for the final evaluation?"
+    },
+    {
+      "field_name": "Final_Evaluation_Student_Date",
+      "question": "What is the date of your signature for the final evaluation?"
+    },
+    {
+      "field_name": "Final_Evaluation_Employer_Signature",
+      "question": "Please provide the signature of the employer official with signatory authority for the final evaluation."
+    },
+    {
+      "field_name": "Final_Evaluation_Employer_Printed_Name",
+      "question": "What is the printed name of the employer official with signatory authority for the final evaluation?"
+    },
+    {
+      "field_name": "Final_Evaluation_Employer_Date",
+      "question": "What is the date of the employer's signature for the final evaluation?"
+    }
+  ]
+}

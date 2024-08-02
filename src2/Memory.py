@@ -8,7 +8,7 @@ import chromadb
 import chromadb.utils.embedding_functions as embedding_functions
 
 class MemoryManager:
-    def __init__(self, api_key, collection_name="test", db_path="/Users/mingrui/Documents/Codes/FormFiller/chromaDB"):
+    def __init__(self, api_key, collection_name="test", db_path="chromaDB"):
         self.api_key = api_key
         self.client = OpenAI()
         
