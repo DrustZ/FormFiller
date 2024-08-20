@@ -9,13 +9,6 @@ class ReminderCommandParser:
         self.client = OpenAI(api_key=api_key)
         self.reminder_manager = reminder_manager
 
-    def _handle_image_query(self, user_input: str, image_path: str) -> Tuple[str, List[str]]:
-        if any(keyword in user_input.lower() for keyword in ["remind", "reminder", "reminders"]):
-            queries = [self._get_image_description(image_path, user_input)]
-        else:
-            queries = self._generate_questions_from_image(image_path, user_input)
-        return queries
-
     def _get_image_description(self, image_path: str, user_input: str) -> str:
         with open(image_path, "rb") as image_file:
             base64_image = base64.b64encode(image_file.read()).decode('utf-8')
@@ -60,7 +53,7 @@ class ReminderCommandParser:
             max_tokens=1000
         )
         
-        return Utils.extractValidJson(response.choices[0].message.content)['image_description']
+        return Utils.extractValidJson(response.choices[0].message.content)
 
     def _generate_questions_from_image(self, image_path, user_input):
         with open(image_path, "rb") as image_file:
@@ -104,23 +97,32 @@ class ReminderCommandParser:
             max_tokens=1000
         )
         
-        return Utils.extractValidJson(response.choices[0].message.content)['questions']
+        return Utils.extractValidJson(response.choices[0].message.content)
 
     def execute_query(self, query_type: str, queries: List[str]) -> List[dict]:
-        results = []
+        results = {}
         print(f'processing {query_type} {queries}')
-        if query_type == "text":
-            for query in queries:
-                results.extend(self.reminder_manager.find_reminders(query).to_dict('records'))
-        elif query_type == "image":
-            for query in queries:
-                
-                results.extend(self.reminder_manager.find_reminders(query).to_dict('records'))
-        return results
+        for query in queries:
+            new_results = self.reminder_manager.find_reminders(query).to_dict('records')
+            for result in new_results:
+                if result['ID'] in results:
+                    # Merge new information
+                    results[result['ID']]['Relevance'] = min(results[result['ID']]['Relevance'], result['Relevance'])
+                    # You might want to update other fields here if necessary
+                else:
+                    results[result['ID']] = result
+        return list(results.values())
 
-    def process_command(self, user_input: str, image_path: Optional[str] = None) -> List[dict]:
-        if image_path:
-            queries = self._handle_image_query(user_input, image_path)
-            return self.execute_query('image', queries)
+    def process_command_with_image(self, user_input: str, image_path: str):
+        result = None
+        if any(keyword in user_input.lower() for keyword in ["remind", "reminder", "reminders"]):
+            result = self._get_image_description(image_path, user_input)
+            queries = [result['image_description']]
         else:
-            return self.execute_query('text', [user_input])
+            result = self._generate_questions_from_image(image_path, user_input)
+            queries = result['questions']
+        return result['image_description'], self.execute_query('image', queries)
+
+    def process_command(self, user_input: str):
+        return self.execute_query('text', [user_input])
+        

@@ -6,6 +6,7 @@ from rich.table import Table
 from openai import OpenAI
 from Storage.ReminderManager import ReminderManager
 from Utils.ReminderCommandParser import ReminderCommandParser
+from Utils.ReminderResponder import ReminderResponder
 
 # Load environment variables
 load_dotenv()
@@ -19,6 +20,7 @@ class ReminderConsole:
             exit(1)
 
         self.reminder_manager = ReminderManager(api_key)
+        self.reminder_responder = ReminderResponder(api_key)
         self.command_parser = ReminderCommandParser(api_key, self.reminder_manager)
 
     def display_help(self):
@@ -51,10 +53,12 @@ class ReminderConsole:
         return True
 
     def ask_question(self, question, image_path=None):
+        description = ''
         if image_path:
             self.console.print(f"[cyan]Using image: {image_path}[/cyan]")
-        
-        results = self.command_parser.process_command(question, image_path)
+            description, results = self.command_parser.process_command_with_image(question, image_path)
+        else:
+            results = self.command_parser.process_command(question)
         if results:
             table = Table(title=f"Relevant Reminders for: '{question}'")
             table.add_column("ID", style="cyan")
@@ -63,6 +67,8 @@ class ReminderConsole:
             for result in results:
                 table.add_row(str(result['ID']), result['Content'], f"{result['Relevance']:.4f}")
             self.console.print(table)
+            response = self.reminder_responder.generate_response(question, description, results, image_path)
+            self.console.print(f"[bold green]Response:[/bold green] {response}")
         else:
             self.console.print("[yellow]No relevant reminders found.[/yellow]")
 
