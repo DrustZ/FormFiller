@@ -115,7 +115,7 @@ class ReminderCommandParser:
 
     def process_command_with_image(self, user_input: str, image_path: str):
         result = None
-        if any(keyword in user_input.lower() for keyword in ["remind", "reminder", "reminders"]):
+        if any(keyword in user_input.lower() for keyword in ["reminder", "reminders"]):
             result = self._get_image_description(image_path, user_input)
             queries = [result['image_description']]
         else:

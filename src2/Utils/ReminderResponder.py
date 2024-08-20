@@ -20,6 +20,7 @@ class ReminderResponder:
         - If there's an image, then the user is explicitly asking the question about the image. If the memories is not relevant to the image description, do not use them, even they might be relevant to the query.
         - If there's no answer just say there's no.
         - Try answer in one phrase.
+        - If the user askes about what the relevant reminders to the image are, you should only include the reminders that are relevant to the image description (only reminders, not facts that are remembered).
 
         For example, if the user query is "What are my reminders?", and took a picture of a grocery store, and a clock showing 5pm, but there's no relevant memories about shopping or 5pm, you should respond with "You don't have any reminders.", even there might be reminders about other things, and do not include those reminders in the response.
 

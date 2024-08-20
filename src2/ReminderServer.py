@@ -42,11 +42,11 @@ def safe_decode_base64(s):
 @app.post("/reminder")
 async def handle_reminder(request: ReminderRequest):
     print(f"Received inquiry: {request.inquiry}")
-    
-    if request.inquiry.lower().startswith("remind me"):
+    rq = request.inquiry.lower()
+    if rq.startswith("remind me") or rq.startswith("remember"):
         # Create a new reminder
         reminder_id = reminder_manager.add_reminder(request.inquiry)
-        return f"Reminder added with ID: {reminder_id}"
+        return f"Memory added with ID: {reminder_id}"
     
     image_path = None
     description = ""
